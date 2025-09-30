@@ -1,0 +1,8 @@
+prefix=/home/robt403/catkin_ws/devel
+
+Name: nu_id_pubsub
+Description: Description of nu_id_pubsub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
